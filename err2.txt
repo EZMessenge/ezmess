@@ -1,0 +1,3 @@
+This goes to err.txt
+java.lang.Exception: Exception goes to err.txt too
+	at messenger.client.Main.main(Main.java:39)
